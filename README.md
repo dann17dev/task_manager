@@ -22,5 +22,5 @@ Antes de começar, você precisa ter o Python instalado em sua máquina. Você p
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
-   cd NOME_DO_REPOSITORIO
+   git clone https://github.com/dann17dev/task_manager.git
+   cd task_manager
