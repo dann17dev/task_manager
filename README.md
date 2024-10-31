@@ -49,12 +49,6 @@ Remove uma tarefa com base no ID fornecido.
 
 **Status Code**: 404 se a tarefa não for encontrada.
 
-## Instalação
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu_usuario/gerenciador-de-tarefas.git
-   cd gerenciador-de-tarefas
 
 ## Instalação
 
